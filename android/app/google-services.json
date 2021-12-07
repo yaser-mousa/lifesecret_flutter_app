@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103051281050",
+    "project_id": "life-secret-5b838",
+    "storage_bucket": "life-secret-5b838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103051281050:android:f283b73bf7916972f95523",
+        "android_client_info": {
+          "package_name": "com.yaserapps.lifesecret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103051281050-mnge3ri33t7e6ru89topumkt2gqp56k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaserapps.lifesecret",
+            "certificate_hash": "a1e8153dada20abca2a8efe3cb492a21e68e6263"
+          }
+        },
+        {
+          "client_id": "103051281050-gcm0j11a7i8acc0gt4dss03ohanj8q3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0HAExag-HuMe_h4WV2pre1rEO9UHIvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103051281050-gcm0j11a7i8acc0gt4dss03ohanj8q3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
